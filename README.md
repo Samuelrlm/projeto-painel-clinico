@@ -1,5 +1,6 @@
 # projeto-painel-clinico
-Projeto fullstack de painel clinico para monitoramento de pacientes
+Projeto fullstack de painel clinico para monitoramento de pacientes.
+
 ![image](https://user-images.githubusercontent.com/105258182/212969279-62502725-a4d3-4f51-876f-a82a5bd43a9e.png)
 
 #Como o Projeto funciona
